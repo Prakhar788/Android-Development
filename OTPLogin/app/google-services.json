@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33170526600",
+    "project_id": "otploginapp12121",
+    "storage_bucket": "otploginapp12121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33170526600:android:6e761c337698b8451eea3d",
+        "android_client_info": {
+          "package_name": "com.example.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33170526600-in3195sppn4h763qtht8qjukhteau996.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otplogin",
+            "certificate_hash": "b3309897f863e4bc3b5e1b477aa9508b50c2004b"
+          }
+        },
+        {
+          "client_id": "33170526600-rdmupkitpt0p1d98ht49n7pvlpg6khf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW3FwZMDExbeBMIErhPV4X5-O045DAdt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33170526600-rdmupkitpt0p1d98ht49n7pvlpg6khf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
