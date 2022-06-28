@@ -1,2 +1,2 @@
 # Android-Development
-Basic Android Development..
+Basic Android Development.
